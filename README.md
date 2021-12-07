@@ -31,6 +31,11 @@ The program accepts three arguments as well:
 ```
 waybackurls.exe example.com -v -o
 ```
+# Images
+<h3>Default</h3>
+<img src="images/example2.png">
+<h3>With verbose</h3>
+<img src="images/example1.png">
 
 # Credit
 Credits to <a href="https://github.com/tomnomnom/waybackurls">tomnomnom</a> and <a href="https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050">mhmdiaa</a>.
